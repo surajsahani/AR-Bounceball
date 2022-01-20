@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406766460136",
+    "project_id": "bouncingar",
+    "storage_bucket": "bouncingar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406766460136:android:dbb20de8156e2c4ef83d5d",
+        "android_client_info": {
+          "package_name": "com.example.arscene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406766460136-4fosc573f4sbc73mopdc406rqn5dar3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arscene",
+            "certificate_hash": "743f63b9f1410fd010ee46937a4449a462615174"
+          }
+        },
+        {
+          "client_id": "406766460136-2jmiduiqsf76809u7nl3fh1cvtih7h97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcfwO_8c-cHX1xZwDKBAzCJXoDseGZ_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406766460136-2jmiduiqsf76809u7nl3fh1cvtih7h97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

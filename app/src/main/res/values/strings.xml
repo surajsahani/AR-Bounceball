@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ARScene</string>
+    <string name="default_web_client_id_manual" translatable="false">406766460136-2jmiduiqsf76809u7nl3fh1cvtih7h97.apps.googleusercontent.com</string>
 </resources>
