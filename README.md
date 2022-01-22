@@ -2,8 +2,8 @@
 ARCore SDK Android Bouncing ball App
 
 # Features
-Rotate X <br />
-Rotate Y <br />
+Rotate X (left arrow)<br />
+Rotate Y (right arrow)<br />
 cube3D object using ARCore <br />
 sphere3D object ARCore <br />
 persistence of object after app close <br />
