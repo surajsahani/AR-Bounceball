@@ -20,7 +20,7 @@ Kotlin Extension <br />
 
 Sphere 3D object
 
-`    private fun makeTextureSphere(hitResult: HitResult, res: Int) {
+```    private fun makeTextureSphere(hitResult: HitResult, res: Int) {
         Texture.builder().setSource(BitmapFactory.decodeResource(resources, res))
             .build()
             .thenAccept {
@@ -36,4 +36,4 @@ Sphere 3D object
                     }
             }
     }
-`
+```
