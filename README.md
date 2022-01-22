@@ -5,14 +5,14 @@ https://user-images.githubusercontent.com/22853459/150648813-ca66f624-ebec-45ef-
 
 
 # Features
-Firebase Login/Registration
-Place an 3D object cube,sphere
+Firebase Login/Registration<br />
+Place an 3D object cube,sphere<br />
 Rotate cube X (left arrow)<br />
 Rotate cube Y (right arrow)<br />
 place sphere3D object ARCore <br />
 persistence of 3D object after screen move away<br />
-bounce (on progress) 
-Rotate Z (on progress)
+bounce (on progress) <br />
+Rotate Z (on progress)<br />
 # Project Architecture
 AR Scene form <br />
 Android Navigation Component <br />
