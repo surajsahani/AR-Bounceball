@@ -3,6 +3,7 @@ package com.example.arscene;
 
 import android.content.Intent
 import android.content.SharedPreferences
+import android.graphics.BitmapFactory
 import android.graphics.Color
 import android.os.Bundle
 import android.preference.PreferenceManager
@@ -19,6 +20,7 @@ import com.google.ar.sceneform.math.Vector3
 import com.google.ar.sceneform.rendering.MaterialFactory
 import com.google.ar.sceneform.rendering.ModelRenderable
 import com.google.ar.sceneform.rendering.ShapeFactory
+import com.google.ar.sceneform.rendering.Texture
 import com.google.ar.sceneform.ux.ArFragment
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.ChildEventListener
