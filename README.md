@@ -10,7 +10,8 @@ Rotate Y (right arrow)<br />
 cube3D object using ARCore <br />
 sphere3D object ARCore <br />
 persistence of object after app close <br />
-
+bounce (on progress) 
+Rotate Z (on progress)
 # Project Architecture
 AR Scene form <br />
 Android Navigation Component <br />
