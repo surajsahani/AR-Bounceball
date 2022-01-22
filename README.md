@@ -15,7 +15,7 @@ Firebae Auth <br />
 Kotlin Extension <br />
 
 
-To render Sphere
+To render Sphere<br />
 `private fun makeTextureSphere(hitResult: HitResult, res: Int) {
         Texture.builder().setSource(BitmapFactory.decodeResource(resources, res))
             .build()
