@@ -32,6 +32,8 @@ public class SignInActivity  extends AppCompatActivity implements View.OnClickLi
 
     //Firebase instance variables
     private FirebaseAuth mFirebaseAuth;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
