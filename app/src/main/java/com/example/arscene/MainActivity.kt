@@ -199,6 +199,22 @@ class MainActivity : AppCompatActivity(), ControlFragment.OnQuaternionChangedLis
 
         return cubeNode
     }
+    private fun makeTextureSphere(hitResult: HitResult, res: Int) {
+        Texture.builder().setSource(BitmapFactory.decodeResource(resources, res))
+            .build()
+            .thenAccept {
+                MaterialFactory.makeOpaqueWithTexture(this, it)
+                    .thenAccept { material ->
+                        addNodeToScene(arFragment, hitResult.createAnchor(),
+                            ShapeFactory.makeSphere(
+                                0.1f,
+                                Vector3(0.0f, 0.15f, 0.0f),
+                                material
+                            ))
+
+                    }
+            }
+    }
 }
 
 
