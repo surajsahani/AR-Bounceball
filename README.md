@@ -1,6 +1,8 @@
 # AR-Bounceball
 ARCore SDK Android Bouncing ball App
 
+![PRI_220564935](https://user-images.githubusercontent.com/22853459/152645950-ffefc446-b8f4-4294-b191-c8de825afd23.png)
+
 https://user-images.githubusercontent.com/22853459/150648813-ca66f624-ebec-45ef-8320-22eb86bad4af.mp4
 
 
@@ -18,8 +20,6 @@ AR Scene form <br />
 Android Navigation Component <br />
 Firebae Auth <br />
 Kotlin Extension <br />
-
-![PRI_220564935](https://user-images.githubusercontent.com/22853459/152645950-ffefc446-b8f4-4294-b191-c8de825afd23.png)
 
 
 Sphere 3D object
