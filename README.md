@@ -1,7 +1,6 @@
 # AR-Bounceball
-ARCore SDK Android Bouncing ball App
 
-Do we create space-time? A new perspective on the fabric of reality
+Do we create space-time? 
 
 For the first time, it is possible to see the quantum world from multiple points of view at once. This hints at something very strange – that reality only takes shape when we interact with each other
 
