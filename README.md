@@ -1,12 +1,13 @@
+
+![PRI_220564935](https://user-images.githubusercontent.com/22853459/152645950-ffefc446-b8f4-4294-b191-c8de825afd23.png)
+
+
 # AR-Bounceball
 
 Do we create space-time? 
 
 For the first time, it is possible to see the quantum world from multiple points of view at once. This hints at something very strange – that reality only takes shape when we interact with each other
 
-
-
-![PRI_220564935](https://user-images.githubusercontent.com/22853459/152645950-ffefc446-b8f4-4294-b191-c8de825afd23.png)
 
 https://user-images.githubusercontent.com/22853459/150648813-ca66f624-ebec-45ef-8320-22eb86bad4af.mp4
 
