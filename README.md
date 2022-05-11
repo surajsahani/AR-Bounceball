@@ -49,3 +49,9 @@ private fun makeTextureSphere(hitResult: HitResult, res: Int) {
     }
 ```
 Read more: https://dev.to/surajsahani/create-your-ar-application-using-ar-core-17kj
+
+Built With 🛠︎
+
+Kotlin
+ARCore
+
